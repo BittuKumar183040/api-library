@@ -65,7 +65,7 @@ export default function Home() {
                 <div className="bg-orange-500 text-sm rounded-full px-4 text-white p-2 flex gap-4 items-center justify-between cursor-pointer "
                   onClick={adviceChanger}>
                   <VscGitFetch size={20} />
-                  <p>Fetch</p>
+                  <p>Next</p>
                 </div>
               </div>
             </div>
